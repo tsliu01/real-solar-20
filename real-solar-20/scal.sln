@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scal", "scal.csproj", "{3E6DE1A3-D6EB-39C9-EDEE-A951BCDE8C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scal.Editor", "scal.Editor.csproj", "{13348F70-08AF-ED2F-1269-2FC6ABFF3AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6DE1A3-D6EB-39C9-EDEE-A951BCDE8C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6DE1A3-D6EB-39C9-EDEE-A951BCDE8C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6DE1A3-D6EB-39C9-EDEE-A951BCDE8C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6DE1A3-D6EB-39C9-EDEE-A951BCDE8C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13348F70-08AF-ED2F-1269-2FC6ABFF3AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13348F70-08AF-ED2F-1269-2FC6ABFF3AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13348F70-08AF-ED2F-1269-2FC6ABFF3AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13348F70-08AF-ED2F-1269-2FC6ABFF3AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
